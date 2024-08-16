@@ -10,10 +10,10 @@ Welcome to Ques.AI, a user-friendly web app built with the MERN stack (MongoDB, 
 - Responsive Design: Works seamlessly across all devices.
 
 # Tech Stack:
--- Frontend: React.js, CSS, HTML5
--- Backend: Node.js, Express.js
--- Database: MongoDB
--- Version Control: Git
--- Deployment: Netlify.
+- Frontend: React.js, CSS, HTML5
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git
+- Deployment: Netlify.
 
 # deployment link:https://bright-tiramisu-731393.netlify.app/
