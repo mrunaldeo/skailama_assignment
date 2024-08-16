@@ -1,4 +1,4 @@
-# skailama_assignment:
+# Skailama_assignment:
 Welcome to Ques.AI, a user-friendly web app built with the MERN stack (MongoDB, Express, React, Node.js) to make podcast management easy and efficient. From creating projects to editing transcripts and handling account settings, Ques.AI streamlines the entire process.
 
 # Features:
@@ -16,4 +16,4 @@ Welcome to Ques.AI, a user-friendly web app built with the MERN stack (MongoDB, 
 - Version Control: Git
 - Deployment: Netlify.
 
-# deployment link:https://bright-tiramisu-731393.netlify.app/
+# Deployment link:https://bright-tiramisu-731393.netlify.app/
