@@ -16,4 +16,4 @@ Welcome to Ques.AI, a user-friendly web app built with the MERN stack (MongoDB, 
 - Version Control: Git
 - Deployment: Netlify.
 
-# Deployment link:https://bright-tiramisu-731393.netlify.app/
+# Deployment link: https://66bf904af0169f738e2663bc--tiny-malabi-ded859.netlify.app/
